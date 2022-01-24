@@ -10,7 +10,7 @@ namespace DSA
     {
         static void Main(string[] args)
         {
-            //tttt
+            //this is local comment
         }
     }
 }
